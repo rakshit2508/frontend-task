@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<Username>.github.io/frontend-task",
+  "homepage": "https://rakshit2508.github.io/frontend-task",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
